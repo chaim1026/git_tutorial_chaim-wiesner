@@ -1,2 +1,3 @@
 Hey Everyone, is working on Git and Github
 i have made changes
+new function created
